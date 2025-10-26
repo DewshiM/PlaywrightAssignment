@@ -1,0 +1,5 @@
+{
+    "login_page" : "login",
+    "checkboxes_page": "checkboxes",     
+    "dynamic_controls_page": "dynamic_controls" 
+}
